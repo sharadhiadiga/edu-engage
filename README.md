@@ -1,19 +1,36 @@
-# Edu Engage Project
+# EduEngage Project
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ae2284a5-6cea-43d8-8de0-65ecaf7054fe/deploy-status)](https://app.netlify.com/sites/edu-engage/deploys)
+This project is a basic static website that consists of an HTML page, CSS styling, and JavaScript functionality.
 
-## Description
+## Files
 
-This project is a web-based application that offers educational engagement. It is hosted on **Netlify** and the live site can be accessed at [edu-engage.netlify.app](https://edu-engage.netlify.app).
+- **loginn.html**: The main HTML file that contains the structure of the login page.
+- **loginn.css**: The CSS file that styles the login page.
+- **script1.js**: The JavaScript file that handles any dynamic functionality on the page.
 
-### Features
-- Login functionality
-- Responsive design
-- Custom CSS and JavaScript
+## How to Run Locally
 
-## Setup
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/sharadhiadiga/edu-engage.git
+    ```
 
-1. Clone this repository:  
-   `git clone https://github.com/sharadhiadiga/edu-engage.git`
+2. Navigate to the project directory:
+    ```bash
+    cd edu-engage
+    ```
 
-2. Open the `index.html` file in your browser to view the project.
+3. Open the `loginn.html` file in any web browser to view the site.
+    ```bash
+    open loginn.html  # For macOS
+    start loginn.html # For Windows
+    ```
+
+## Deployment
+
+This site is deployed on Netlify and can be accessed at:  
+[EduEngage on Netlify](https://edu-engage.netlify.app)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
